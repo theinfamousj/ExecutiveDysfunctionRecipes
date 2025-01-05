@@ -1,0 +1,52 @@
+{{> head}}
+{{> navbar}}
+<main class="page page--tags">
+   <div class="hero {{#checkIfNone featuredImage.url}}hero--noimage{{/checkIfNone}}">
+      <header class="hero__content {{#checkIf @config.custom.alignHero '==' "center" }}hero__content--centered{{/checkIf}}">
+         <div class="wrapper">
+            <h1>
+               {{ translate 'tags.tagsPageTitle' }} 
+            </h1>
+            <p class="page__desc">
+               {{ translate "tags.description" tagsNumber }}
+            </p>
+         </div>
+      </header>
+   </div>
+   <div class="wrapper">
+      <ul class="feed feed--grid">
+         {{#each tags}}
+            <li class="feed__item">
+               {{#featuredImage}}
+                  {{#if url}}
+                     <figure class="feed__image">
+                        <img
+                           {{#if @config.site.responsiveImages}}
+                              src="{{urlXs}}"
+                           {{else}}
+                              src="{{url}}"
+                           {{/if}}
+                           {{ lazyload "lazy" }}
+                           height="{{height}}"
+                           width="{{width}}"
+                           alt="{{alt}}">
+                     </figure>
+                  {{/if}}
+               {{/featuredImage}}
+
+               <div class="feed__content">
+                  <h2 class="h3">
+                     <a href="{{url}}">
+                        {{name}}
+                     </a>
+                  </h2>
+                  <p>
+                     {{ translate "tags.featuringPosts" postsNumber }}
+                  </p>
+               </div>
+            </li>
+         {{/each}}
+      </ul>
+   </div>
+</main>
+{{> footer}}
