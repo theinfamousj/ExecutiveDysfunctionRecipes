@@ -112,12 +112,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a30b564438963e596348add6f5d0ca39"
+        "md5": "57f2b7bdde91a5685b6915044b1bab94"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f258c12742631a65f5b73cd0eff51701"
+        "md5": "98b8a4be83d9dadec05006b5ebdbba01"
     },
     {
         "path": "index.html",
@@ -127,22 +127,22 @@
     {
         "path": "instant-pot-close-enough-to-eggplant-parm-on-pasta.html",
         "type": "file",
-        "md5": "a94961a1b50726dc86c81c4fe45b81c5"
+        "md5": "8ad08b4b190fa4a92fcec7697265eb64"
     },
     {
         "path": "instant-pot-fancy-dinner-macaroni-and-cheese.html",
         "type": "file",
-        "md5": "bb3044756b2af6f5ac214e441b59e481"
+        "md5": "985b16c0b200214408ebb3075a9bc3bb"
     },
     {
         "path": "instant-pot-vegetarian-japanese-golden-curry-2.html",
         "type": "file",
-        "md5": "4b9e70b07a8f804c91de62d6492452c3"
+        "md5": "85809e96098f3f3f151ff546ad16161e"
     },
     {
         "path": "lemon-fruit-yogurt-cake.html",
         "type": "file",
-        "md5": "8ea2f190cead5602a922e0bb5c3a036f"
+        "md5": "234236afcd8a4dab8a0060f48c6977f8"
     },
     {
         "path": "media",
@@ -167,7 +167,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "cd3c025c77e980400a83839a22e29cb0"
+        "md5": "81a06cece915092100ee17513134b67e"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -187,7 +187,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "97ce6f5b167a7c1c2d45582b0597da2f"
+        "md5": "262f225bbfb749b8cec07b71713fd30f"
     },
     {
         "path": "sitemap.xsl",
@@ -217,7 +217,7 @@
     {
         "path": "/tags/dairy/index.html",
         "type": "file",
-        "md5": "fbc692431b55448c94739f27883ef65e"
+        "md5": "8741d9dcb6c6bab3ab78a983ca4bed8e"
     },
     {
         "path": "tags/dessert",
@@ -242,7 +242,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "765f89bde4f2fdb98ecc498a0ab65227"
+        "md5": "07d54865d4b4319541cf530fcee182ef"
     },
     {
         "path": "tags/instant-pot",
@@ -252,7 +252,7 @@
     {
         "path": "/tags/instant-pot/index.html",
         "type": "file",
-        "md5": "c28a689a9a1b539980a8536abf2caefc"
+        "md5": "c5d5983eaffed1901033fd94ecb36cd4"
     },
     {
         "path": "tags/mac-and-cheese",
@@ -272,6 +272,6 @@
     {
         "path": "/tags/vegetarian/index.html",
         "type": "file",
-        "md5": "3103bfe9402dceaf6cece23f72f9615c"
+        "md5": "246f6ea2a9c566fe8213d33ade457605"
     }
 ]
