@@ -107,27 +107,32 @@
     {
         "path": "/authors/j/index.html",
         "type": "file",
-        "md5": "4b3e141b8de978f3db23487b2fd4bec1"
+        "md5": "c655e3e0babb75db232f9fd51bda7139"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2c235d3ec45678872716c8310b50fdbe"
+        "md5": "36b052ecf82b48fab1bebe11de6fed26"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7fc5573644d96e091cb92d6cc18113f8"
+        "md5": "3ef172c9312bd6a8e3a31b2d46f92ff3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8d46812506223fb16005d879a38b2d8f"
+        "md5": "863c8b8cb1f493239cd22209640a4420"
     },
     {
         "path": "instant-pot-fancy-dinner-macaroni-and-cheese.html",
         "type": "file",
-        "md5": "0dc5e13650b30f31e512417517726e6c"
+        "md5": "bb3044756b2af6f5ac214e441b59e481"
+    },
+    {
+        "path": "instant-pot-vegetarian-japanese-golden-curry-2.html",
+        "type": "file",
+        "md5": "5a820951e73a35d2d6636539dbac9e1d"
     },
     {
         "path": "media",
@@ -152,7 +157,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "e82808e68ba59b3a391f245cbf7c596f"
+        "md5": "9d86129b6a03365b986797dadb7014b0"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -172,7 +177,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d1aee1e50937bd110007f9353e4eee12"
+        "md5": "9454707ff94cb8edb541b6a9ae4c35c4"
     },
     {
         "path": "sitemap.xsl",
@@ -192,7 +197,7 @@
     {
         "path": "/tags/dairy/index.html",
         "type": "file",
-        "md5": "6b001435c806da92fb018e2003c575b0"
+        "md5": "fbc692431b55448c94739f27883ef65e"
     },
     {
         "path": "tags/fancy-dinner",
@@ -207,7 +212,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1c46ce935cd40e6425d28e8a04a42303"
+        "md5": "51ea1c3e19b749e355e961d57e274cc3"
     },
     {
         "path": "tags/instant-pot",
@@ -217,7 +222,7 @@
     {
         "path": "/tags/instant-pot/index.html",
         "type": "file",
-        "md5": "18cd87dbe1e7a9c6d856066aa9f7f5dc"
+        "md5": "c28a689a9a1b539980a8536abf2caefc"
     },
     {
         "path": "tags/mac-and-cheese",
@@ -237,6 +242,6 @@
     {
         "path": "/tags/vegetarian/index.html",
         "type": "file",
-        "md5": "6febb7c31bf384aa78f850ad867308a6"
+        "md5": "70e3492344af65a0a6c9a9fec38fe6a0"
     }
 ]
